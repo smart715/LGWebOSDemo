@@ -1,0 +1,10 @@
+{
+    "id": "com.example",
+    "version": "0.0.1",
+    "vendor": "Test TV",
+    "type": "web",
+    "main": "index.html",
+    "title": "tv_app",
+    "icon": "icon.png",
+    "largeIcon": "largeIcon.png"
+  }
